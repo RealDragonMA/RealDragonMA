@@ -80,7 +80,7 @@
 
 <h2 align="center">My Github Stats</h2>
 <p  align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_dark&line_height=20"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark&card_width=448"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RealDragonMA&show_icons=true&theme=github_dark&line_height=20"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealDragonMA&layout=compact&theme=github_dark&card_width=446"/>
 
 </p>
