@@ -81,6 +81,6 @@
 <h2 align="center">My Github Stats</h2>
 <p  align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_dark&line_height=20"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark&card_width=450"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark&card_width=448"/>
 
 </p>
