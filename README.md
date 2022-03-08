@@ -1,9 +1,3 @@
-## I'm a Student, and Developer !!
-
-- 🌱 I’m currently learning..
-- 🥅 2022 Goals: Learn more about what i'm learning
-
-
 <h2  align="center">:wrench: Languages & Tools :hammer:</h2>
 
 <p  align="center">
@@ -36,7 +30,7 @@
 
 <h2 align="center">:scroll: My Github Stats 📜</h2>
 <p  align="center">
-[<img  style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=RealDragonMA&show_icons=true&theme=github_dark&line_height=20"/>
-[<img  style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealDragonMA&layout=compact&theme=github_dark&card_width=446"/>
+<img  style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=RealDragonMA&show_icons=true&theme=github_dark&line_height=20"/>
+<img  style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealDragonMA&layout=compact&theme=github_dark&card_width=446"/>
 
 </p>
