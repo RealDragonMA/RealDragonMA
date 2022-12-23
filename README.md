@@ -12,7 +12,5 @@
 
 
 <h2 align="center">:scroll: My Github Stats 📜</h2>
-<p align="center">
-    [![](https://github-readme-stats.vercel.app/api?username=RealDragonMA&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=RealDragonMA&theme=dark&hide_border=false)<br/>
-</p>
+[![](https://github-readme-stats.vercel.app/api?username=RealDragonMA&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=RealDragonMA&theme=dark&hide_border=false)<br/>
