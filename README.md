@@ -29,10 +29,8 @@
 </p>
           
 
-
+---
 <h2 align="center">:scroll: My Github Stats 📜</h2>
-<p  align="center">
-<img  style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=RealDragonMA&show_icons=true&theme=github_dark&line_height=20"/>
-<img  style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealDragonMA&layout=compact&theme=github_dark&card_width=446"/>
-
-</p>
+![](https://github-readme-stats.vercel.app/api?username=RealDragonMA&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RealDragonMA&theme=dark&hide_border=false)<br/>
+---
