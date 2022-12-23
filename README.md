@@ -11,7 +11,6 @@
 </p>
 
 
-[![](https://github-readme-stats.vercel.app/api?username=RealDragonMA&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api?username=RealDragonMA&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RealDragonMA)](https://git.io/streak-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=RealDragonMA&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=RealDragonMA&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=RealDragonMA&theme=dark&hide_border=false)
