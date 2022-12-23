@@ -24,8 +24,8 @@ Although what I prefer is the backend aspect !
 
 ---
 
-<h1 align="center"><p>:wrench: Languages & Tools :hammer:</p></h1>
-<summary><h1 align="center">NO LINE</h1></summary>
+<h2 align="center">:wrench: Languages & Tools :hammer:</h2>
+
 <p align="center">
     <a href="https://skillicons.dev">
         <img alt="skill icons" src="https://skillicons.dev/icons?i=ts,js,nodejs,html,css,svelte,react,flutter,kotlin,java,redis,docker&perline=6&theme=dark"/>
@@ -49,3 +49,5 @@ Although what I prefer is the backend aspect !
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=RealDragonMA&theme=dark&hide_border=false" alt="streak stats"/>
     </a>
 </p>
+
+---
