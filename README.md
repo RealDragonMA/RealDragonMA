@@ -25,7 +25,7 @@ Although what I prefer is the backend aspect !
 ---
 
 <h1 align="center"><p>:wrench: Languages & Tools :hammer:</p></h1>
-
+<summary><h1 style="display: inline-block;">NO LINE</h1></summary>
 <p align="center">
     <a href="https://skillicons.dev">
         <img alt="skill icons" src="https://skillicons.dev/icons?i=ts,js,nodejs,html,css,svelte,react,flutter,kotlin,java,redis,docker&perline=6&theme=dark"/>
