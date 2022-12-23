@@ -24,7 +24,7 @@ Although what I prefer is the backend aspect !
 
 ---
 
-<h2 align="center">:wrench: Languages & Tools :hammer:</h2>
+<h1 align="center">:wrench: Languages & Tools :hammer:</h1>
 
 <p align="center">
     <a href="https://skillicons.dev">
