@@ -13,6 +13,10 @@
 
 <h2 align="center">:scroll: My Github Stats 📜</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=RealDragonMA&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RealDragonMA&theme=dark&hide_border=false" alt="streak stats"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=RealDragonMA&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="stats"/>
+    </a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RealDragonMA&theme=dark&hide_border=false" alt="streak stats"/>
+    </a>
 </p>
