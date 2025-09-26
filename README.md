@@ -1,13 +1,5 @@
 <img src="images/header.png" alt="header"/>
 
----
-### I am currently a 3rd year student at the [USMB](https://www.univ-smb.fr/) !
-
-- 🔭 I’m currently working on USMB SDP Project
-- 🌱 I’m currently learning **Flutter**
-- 👨‍💻 All of my projects are available at [https://realdragonma.fr](https://realdragonma.fr)
-
-
 #### 📫 Reach me
 - Discord : Mathis#6004
 - Website : [here !](https://realdragonma.fr)
